@@ -1,0 +1,30 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore API keys or sensitive files
+config.json
+secrets.json
+.env
+
+# Ignore update files (optional)
+version.txt
+
+# Ignore USB-specific temp files
+*.tmp

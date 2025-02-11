@@ -1,0 +1,5 @@
+requests
+speechrecognition
+openai
+pyautogui
+pdfplumber
